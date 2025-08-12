@@ -10,5 +10,8 @@
   "type": "module",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nvm": "^0.0.4"
+  }
 }
