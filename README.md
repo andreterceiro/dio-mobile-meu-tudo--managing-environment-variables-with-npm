@@ -34,6 +34,11 @@ In the versions ot the Node under 20 (19-), you need the package dotenv to read 
 ![dotenv package](images/dotenv-package.png)
 
 
-# Slides related to the class
+# Slides related to this group of classes
 
-[slides related to the class](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/09-npm-enviroment)
+[slides related to this group of classes](https://hermes.dio.me/files/assets/993e0549-2af5-4d0b-9fd6-a4ed69f4dfa5.pptx)
+
+
+# Repository related to this group of classes
+
+[repository related to this group of classes](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/09-npm-enviroment)
