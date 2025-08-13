@@ -30,3 +30,5 @@ Teacher said that you can use multiple env files as example changing the way you
 ![specifying the .env file](images/specifying-the-env-file2.png)
 
 In the versions ot the Node under 20 (19-), you need the package dotenv to read environment variables.
+
+![dotenv package](images/dotenv-package.png)
