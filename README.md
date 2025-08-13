@@ -17,3 +17,10 @@ To install NVM, **N**ode **V**ersion **M**anager  please do the following comman
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 ```
+
+And then you can type **in a new terminal** the following commands to install Node.JS 21 (20.6.0+ example) and use it:
+
+```
+nvm install 21
+nvm use 21
+```
