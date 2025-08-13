@@ -24,3 +24,5 @@ And then you can type **in a new terminal** the following commands to install No
 nvm install 21
 nvm use 21
 ```
+
+Teacher said that you can use multiple env files as example changing the way you specify the env file to use.
