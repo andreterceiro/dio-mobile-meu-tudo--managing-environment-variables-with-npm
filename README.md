@@ -25,4 +25,6 @@ nvm install 21
 nvm use 21
 ```
 
-Teacher said that you can use multiple env files as example changing the way you specify the env file to use.
+Teacher said that you can use multiple env files as example changing the way you specify the env file to use:
+
+![specifying the .env file](images/specifying-the-env-file2.png)
