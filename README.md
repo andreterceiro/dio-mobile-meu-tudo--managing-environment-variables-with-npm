@@ -32,3 +32,8 @@ Teacher said that you can use multiple env files as example changing the way you
 In the versions ot the Node under 20 (19-), you need the package dotenv to read environment variables.
 
 ![dotenv package](images/dotenv-package.png)
+
+
+# Slides related to the class
+
+[slides related to the class](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/09-npm-enviroment)
